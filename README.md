@@ -19,9 +19,9 @@ A multimodal AI application for emotion recognition using speech and facial expr
 4. Display emotion analysis and mood insights.
 5. Generate personalized wellness recommendations using the Gemini API.
 
+<img width="1183" height="719" alt="Screenshot 2025-03-30 175351" src="https://github.com/user-attachments/assets/1458d005-7f1f-45b8-a488-dceb1eab9830" />
 
 
-<img width="557" height="846" alt="Screenshot 2025-03-30 175727" src="https://github.com/user-attachments/assets/db4474b8-1799-48e5-8e0b-d75ca714e7ad" />
 <img width="1427" height="789" alt="Screenshot 2025-04-07 015648" src="https://github.com/user-attachments/assets/d14245e3-c816-471f-9a54-f132d5b7283d" />
 
 

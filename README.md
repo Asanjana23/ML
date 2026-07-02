@@ -20,20 +20,16 @@ A multimodal AI application for emotion recognition using speech and facial expr
 5. Generate personalized wellness recommendations using the Gemini API.
 
 
-<img width="1270" height="687" alt="Screenshot 2025-03-30 175323" src="https://github.com/user-attachments/assets/318ef5f4-6a68-4633-bfa3-96a19b0e1e2c" />
+
+<img width="557" height="846" alt="Screenshot 2025-03-30 175727" src="https://github.com/user-attachments/assets/db4474b8-1799-48e5-8e0b-d75ca714e7ad" />
+<img width="1427" height="789" alt="Screenshot 2025-04-07 015648" src="https://github.com/user-attachments/assets/d14245e3-c816-471f-9a54-f132d5b7283d" />
 
 
-<img width="1887" height="820" alt="Screenshot 2025-04-07 015220" src="https://github.com/user-attachments/assets/d4ef8cd1-9d3a-4ee1-a05a-832451b2ded2" />
+<img width="1787" height="852" alt="Screenshot 2025-04-07 020423" src="https://github.com/user-attachments/assets/18456f9b-7b6d-47cd-bf01-cdce7062b264" />
 
-
-<img width="1427" height="789" alt="Screenshot 2025-04-07 015648" src="https://github.com/user-attachments/assets/5b9fc10d-4442-4de1-83c6-f60ece92dd3f" />
-
-<img width="1841" height="818" alt="Screenshot 2025-04-07 015850" src="https://github.com/user-attachments/assets/6d0a48da-5996-427b-b4e1-344b02c6fda5" />
-
-
-<img width="1862" height="860" alt="Screenshot 2025-04-07 020234" src="https://github.com/user-attachments/assets/8f949084-69ed-47d0-9157-de6ae9fb6245" />
-<img width="1787" height="852" alt="Screenshot 2025-04-07 020423" src="https://github.com/user-attachments/assets/2ec67294-6148-4554-a066-ea98f3e18c9c" />
-
+<img width="1650" height="873" alt="Screenshot 2025-04-07 015833" src="https://github.com/user-attachments/assets/d01f2ba8-560b-4a94-8df1-3bb24f6c6c5e" />
+<img width="1862" height="860" alt="Screenshot 2025-04-07 020234" src="https://github.com/user-attachments/assets/d2a25805-e81c-4b00-9407-14df6138431e" />
+<img width="1787" height="852" alt="Screenshot 2025-04-07 020423" src="https://github.com/user-attachments/assets/7b417a2a-87ae-4032-9305-b53846db317c" />
 
 
 
